@@ -5,7 +5,7 @@ import { FaPaperPlane, FaTrash, FaSpinner } from 'react-icons/fa';
 import Message from './Message';
 import './ChatInterface.css';
 
-const API_URL = 'https://mernai-ggtu.onrender.com/api';
+const API_URL = 'https://cetpainfotech.onrender.com/api';
 
 const ChatInterface = () => {
   const [messages, setMessages] = useState([]);
